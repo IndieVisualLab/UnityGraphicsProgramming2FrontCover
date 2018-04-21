@@ -1,6 +1,6 @@
 # UnityGraphicsProgramming2FrontCover
 
-技術同人誌「Unity Graphics Programming2」の表紙のグラフィックス作成のためのUnityプロジェクト
+技術同人誌「Unity Graphics Programming vol.2」の表紙のグラフィックス作成のためのUnityプロジェクト
 
 第1章の「Real-Time GPU-Based Voxelizer」のプログラムをもとに作成しています.
 
