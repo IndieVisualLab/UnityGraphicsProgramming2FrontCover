@@ -1,12 +1,12 @@
 # UnityGraphicsProgramming2FrontCover
 
-技術同人誌「Unity Graphics Programming vol.2」の表紙のグラフィックス作成のためのUnityプロジェクト
+技術同人誌「Unity Graphics Programming vol.2」 表紙グラフィックス作成のためのUnityプロジェクト
 
-第1章の「Real-Time GPU-Based Voxelizer」のプログラムをもとに作成しています.
+第1章「Real-Time GPU-Based Voxelizer」のプログラムをもとに作成しています.
 
 [RealTimeGPUBasedVoxelizer](https://github.com/IndieVisualLab/UnityGraphicsProgramming2/tree/master/Assets/RealTimeGPUBasedVoxelizer)
 
-![表紙](https://github.com/IndieVisualLab/UnityGraphicsProgramming2FrontCover/blob/master/img/cover.gif "表紙")
+![サイネージ版](https://github.com/IndieVisualLab/UnityGraphicsProgramming2FrontCover/blob/master/img/cover.gif "サイネージ版")
 
 #### 操作
 sキーを押すと、指定のフォルダにpng形式で画面のキャプチャを保存します.
